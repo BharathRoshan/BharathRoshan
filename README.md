@@ -24,7 +24,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharathroshan&show_icons=true" alt="bharathroshan" /></p>
 
 <p align="center">
-<a href="https://linkedin.com/in/b.r.bharath roshan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="b.r.bharath roshan" height="30" width="30" /></a>
-<a href="https://kaggle.com/bharath roshan b r" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="bharath roshan b r" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/b-r-bharath-roshan-375833154/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="b.r.bharath roshan" height="30" width="30" /></a>
+<a href="https://www.kaggle.com/bharathroshanbr" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="bharath roshan b r" height="30" width="30" /></a>
 <a href="https://instagram.com/its_b_for_bharath" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="its_b_for_bharath" height="30" width="30" /></a>
 </p>
