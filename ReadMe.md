@@ -2,7 +2,6 @@
 <h3 align="center">AI & Data Analytics Consultant</h3>
  
 <p align="center">
-  <img src="https://img.shields.io/badge/EY-Consultant-FFE600?style=flat-square&logo=ey&logoColor=black" />
   <img src="https://img.shields.io/badge/Location-Bengaluru,%20India-blue?style=flat-square" />
   <img src="https://img.shields.io/badge/MSc-Advanced%20Computer%20Science%20(AI)-informational?style=flat-square" />
 </p>
