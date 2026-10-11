@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Bharath Roshan Bhombore 👋</h1>
-<h3 align="center">AI Engineer | Machine Learning | Generative AI</h3>
+<h3 align="center">AI Engineer | Machine Learning Engineer | Generative AI</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bharathroshanbhombore/">
@@ -15,35 +15,36 @@
 
 I'm an AI and data professional at **EY**, with **3+ years of experience** building data and AI solutions. I enjoy taking ideas from experimentation to working prototypes—especially where machine learning and language models can solve real problems.
 
-My current focus is on **Generative AI, Retrieval-Augmented Generation (RAG), machine learning, and computer vision**. I also hold an **MSc in Advanced Computer Science with AI from the University of Strathclyde, Glasgow**.
+My current focus is on **Generative AI, Retrieval-Augmented Generation (RAG), machine learning, MLOps, and computer vision**. I hold an **MSc in Advanced Computer Science with AI from the University of Strathclyde, Glasgow**.
 
 - Building document-grounded assistants with **LangChain, FAISS, Hugging Face, and LLMs**.
+- Building reproducible ML workflows with **Databricks, MLflow, Delta Lake, batch inference, and model monitoring**.
 - Exploring generative models and evaluating image synthesis approaches.
 - Developing practical ML workflows with clear evaluation metrics—not accuracy alone.
 - Interested in **AI Engineer, Machine Learning Engineer, and Data Scientist** opportunities.
 
 ## Featured projects
 
-### 1. Enterprise Knowledge Assistant
+### 1. End-to-End MLOps & Model Monitoring for Fraud Detection
+**Databricks Free Edition · MLflow · PySpark · Delta Lake · Scikit-learn · PSI · KS statistics**
+
+Extended a credit-card fraud classification project into a notebook-based MLOps workflow: data validation, stratified splitting, experiment tracking, batch inference, drift checks, performance evaluation, a monitoring dashboard, and persistent alert history in Delta tables.
+
+[View repository →](https://github.com/BharathRoshan/Fraud-Detection) · [Databricks notebooks →](https://github.com/BharathRoshan/Fraud-Detection/tree/main/databricks) · [Architecture →](https://github.com/BharathRoshan/Fraud-Detection/blob/main/docs/architecture.md)
+
+### 2. Enterprise Knowledge Assistant
 **Python · RAG · LangChain · FAISS · Hugging Face · Gradio**
 
 A document-question-answering application that retrieves relevant passages from uploaded documents and presents answers alongside source snippets.
 
 [View repository →](https://github.com/BharathRoshan/Enterprise-Knowledge-Assistant)
 
-### 2. Diffusion Models vs GANs for Image Synthesis
+### 3. Diffusion Models vs GANs for Image Synthesis
 **PyTorch · Diffusion Models · StyleGAN2 · VQ-VAE · FID**
 
 A research project comparing generative approaches on Oxford Flowers 102 and CIFAR-10, with notebooks for experimenting with different image-generation methods.
 
 [View repository →](https://github.com/BharathRoshan/Evaluation-of-Diffusion-Models-vs-Generative-Adversarial-Networks-for-Image-Synthesis)
-
-### 3. Fraud Detection
-**Python · Pandas · Scikit-learn · Classification · Model Evaluation**
-
-A machine-learning project focused on credit-card fraud classification, with emphasis on class imbalance and evaluating precision, recall, F1, ROC-AUC, and average precision.
-
-[View repository →](https://github.com/BharathRoshan/Fraud-Detection)
 
 ### 4. Object Recognition for the Visually Impaired
 **Python · OpenCV · YOLOv3 · Computer Vision · Text-to-Speech**
@@ -58,16 +59,19 @@ A prototype that detects common objects in camera or video input and can announc
 Python · SQL · R · Java
 
 **AI / Machine Learning**  
-PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · OpenCV · Model Evaluation
+PyTorch · TensorFlow · Scikit-learn · Pandas · NumPy · OpenCV · Model Evaluation · Feature Engineering
 
 **Generative AI / NLP**  
 LLMs · RAG · LangChain · Hugging Face Transformers · Sentence Transformers · FAISS · Embeddings
 
+**MLOps / Data Engineering**  
+MLflow · Databricks · Delta Lake · PySpark · Batch Inference · Data Drift Monitoring · Git · GitHub
+
 **Cloud / Data Platforms**  
-Microsoft Azure · Azure OpenAI · Azure Machine Learning · SAP Datasphere · SAP Analytics Cloud · Databricks
+Microsoft Azure · Azure OpenAI · Azure Machine Learning · SAP Datasphere · SAP Analytics Cloud
 
 **Engineering tools**  
-Git · GitHub · Streamlit · Gradio · Weights & Biases · TensorBoard
+Streamlit · Gradio · Weights & Biases · TensorBoard
 
 ## Education & certifications
 
@@ -77,7 +81,7 @@ Git · GitHub · Streamlit · Gradio · Weights & Biases · TensorBoard
 
 ## What I'm working toward
 
-I want to build AI systems that are useful, measurable, and reliable—from retrieval and model evaluation to deployment and ongoing improvement. I'm particularly interested in enterprise AI applications and ML engineering.
+I want to build AI systems that are useful, measurable, and reliable—from retrieval and model evaluation to deployment and ongoing improvement. I'm particularly interested in enterprise AI applications, ML engineering, and monitoring models beyond their initial training.
 
 ## GitHub activity
 
