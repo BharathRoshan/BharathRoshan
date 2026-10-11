@@ -72,8 +72,7 @@ Git · GitHub · Streamlit · Gradio · Weights & Biases · TensorBoard
 ## Education & certifications
 
 - **MSc, Advanced Computer Science with AI** — University of Strathclyde, Glasgow
-- **Oracle Cloud Infrastructure 2024 Generative AI Professional**
-- **Microsoft Azure AI certification**
+- **SAP Generative AI certification**
 - **SAP Business Data Cloud certification**
 
 ## What I'm working toward
